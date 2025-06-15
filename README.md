@@ -3,8 +3,8 @@
 Due to file size or format restrictions, the complete code cannot be displayed directly on GitHub.  
 Please access and run the project using the following Colab links:
 
-- [CelebA Code](https://colab.research.google.com/drive/1VvwlIg6FGPDfowPTcw6sj7Erlf8mEYki?usp=sharing)  
-- [CIFAR-10 Code](https://colab.research.google.com/drive/1GomVp59kFx-POKSIQqIqR9aB--DgMCBW?usp=sharing)  
+- [CelebA Code] 
+- [CIFAR-10 Code](https://colab.research.google.com/drive/1VvwlIg6FGPDfowPTcw6sj7Erlf8mEYki?usp=sharing) 
 - [BLIP Set Up Code](https://colab.research.google.com/drive/1GomVp59kFx-POKSIQqIqR9aB--DgMCBW?usp=sharing)
 
 ### Required Google Drive Folders
