@@ -5,7 +5,7 @@ Please access and run the project using the following Colab links:
 
 - [CelebA Code](https://colab.research.google.com/drive/1GomVp59kFx-POKSIQqIqR9aB--DgMCBW?usp=drive_link)
 - [CIFAR-10 Code](https://colab.research.google.com/drive/1VvwlIg6FGPDfowPTcw6sj7Erlf8mEYki?usp=sharing) 
-- [BLIP Set Up Code](https://colab.research.google.com/drive/1GomVp59kFx-POKSIQqIqR9aB--DgMCBW?usp=sharing)
+- [BLIP Set Up Code](https://colab.research.google.com/drive/1_oa4l2RxzH4OJ1jzAkNecynSVagUJmzc?usp=drive_link)
 
 ### Required Google Drive Folders
 
